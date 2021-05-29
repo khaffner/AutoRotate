@@ -23,6 +23,12 @@ What's needed:
 ## Usage
 Strap the phone to the back of the screen in question, connect a charger to keep it alive, run [rotation.py](rotation.py) however you want, and you should be done!
 
+## Demo
+Here we have my laptop, with me holding my phone on the back side
+
+![](docs/laptop-rotate.gif)
+
+
 ## Security
 Yes, the security here is laughable. Non-encrypted and the secret in the url, that's stupid.\
 But it's ok as a proof of concept, it's better than nothing.\
