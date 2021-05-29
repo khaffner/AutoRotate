@@ -24,7 +24,7 @@ What's needed:
 Strap the phone to the back of the screen in question, connect a charger to keep it alive, run [rotation.py](rotation.py) however you want, and you should be done!
 
 ## Demo
-Here we have my laptop, with me holding my phone on the back side
+Here we have my laptop, with me holding my phone against the back of the screen
 
 ![](docs/laptop-rotate.gif)
 
